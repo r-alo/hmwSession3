@@ -13,5 +13,5 @@ The available selections are:
 * Special characters
 
 Results: 
-[GitHub Page]()
-![Code Generator]()
+[GitHub Page](https://r-alo.github.io/hmwSession3/)
+![Code Generator](./assets/pswGen.gif)
